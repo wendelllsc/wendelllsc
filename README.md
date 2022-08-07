@@ -1,6 +1,5 @@
 
 ## Welcome, I'm Wendell.
-<img src="https://www.flaticon.com/svg/static/icons/svg/572/572697.svg" align=right width=250 />
 
 :books: Graduated in 2020  
 :computer: Junior Backend Developer  
