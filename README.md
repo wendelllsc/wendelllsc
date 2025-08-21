@@ -2,8 +2,6 @@
 ## Welcome, I'm Wendell.
 
 :books: Graduated in 2020  
-:computer: Junior Backend Developer  
-
 
 #### Current professional stack: <br>
 <img height="30" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> &nbsp;
